@@ -1,12 +1,12 @@
 
 # Project Title
 
-A brief description of what your project does and its purpose.
+Discovery of Neuropeptide Signal System in Ixodes scapularis
 
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Features](#features)
+- [Objective](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
